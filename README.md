@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Simran 👋</h1>
+<h1 align="center">Hi, I'm Simran </h1>
 
 <p align="center">
   <i>Turning messy data into reliable, trustworthy AI systems.</i><br>
