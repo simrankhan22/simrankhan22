@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://simran-khan.lovable.app"><img src="https://img.shields.io/badge/Portfolio-simran--khan.lovable.app-8E44AD?style=flat-square" /></a>
-  <a href="[your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/simrankhan23"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
